@@ -1,4 +1,7 @@
 {
     "Faq": true,
-    "Faqpp": true
+    "Faqpp": true,
+    "User": true,
+    "Admin": true,
+    "Layout": true
 }
